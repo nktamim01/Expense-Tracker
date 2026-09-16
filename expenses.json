@@ -1,0 +1,121 @@
+{
+    "E001": {
+        "name": "Groceries",
+        "amount": 100.0,
+        "category": "Food",
+        "date": "2023-01-01",
+        "description": "Weekly grocery shopping"
+    },
+    "E003": {
+        "id": "E003",
+        "name": "Internet Subscription",
+        "amount": 60.0,
+        "category": "Utilities",
+        "date": "2026-09-03",
+        "description": "Fiber internet monthly plan"
+    },
+    "E004": {
+        "id": "E004",
+        "name": "Gasoline",
+        "amount": 45.25,
+        "category": "Transportation",
+        "date": "2026-09-04",
+        "description": "Car fuel tank refill"
+    },
+    "E005": {
+        "id": "E005",
+        "name": "Streaming Service",
+        "amount": 15.99,
+        "category": "Entertainment",
+        "date": "2026-09-05",
+        "description": "Monthly video streaming package"
+    },
+    "E006": {
+        "id": "E006",
+        "name": "Gym Membership",
+        "amount": 50.0,
+        "category": "Health & Fitness",
+        "date": "2026-09-06",
+        "description": "Monthly fitness center subscription"
+    },
+    "E007": {
+        "id": "E007",
+        "name": "Coffee Shop",
+        "amount": 12.75,
+        "category": "Food",
+        "date": "2026-09-07",
+        "description": "Espresso and pastry with colleagues"
+    },
+    "E008": {
+        "id": "E008",
+        "name": "Pharmacy Purchase",
+        "amount": 32.4,
+        "category": "Healthcare",
+        "date": "2026-09-08",
+        "description": "Prescription medicines and vitamins"
+    },
+    "E009": {
+        "id": "E009",
+        "name": "Book Store",
+        "amount": 24.99,
+        "category": "Education",
+        "date": "2026-09-09",
+        "description": "Technical programming book"
+    },
+    "E010": {
+        "id": "E010",
+        "name": "Watching match",
+        "amount": 990.0,
+        "category": "Entertainment",
+        "date": "2026-09-04",
+        "description": "FIFA World cup final match"
+    },
+    "E011": {
+        "id": "E011",
+        "name": "Public Transit Pass",
+        "amount": 90.0,
+        "category": "Transportation",
+        "date": "2026-09-11",
+        "description": "Monthly subway commute pass"
+    },
+    "E012": {
+        "id": "E012",
+        "name": "Clothing Purchase",
+        "amount": 115.0,
+        "category": "Shopping",
+        "date": "2026-09-12",
+        "description": "New work shoes and shirt"
+    },
+    "E013": {
+        "id": "E013",
+        "name": "Mobile Phone Plan",
+        "amount": 40.0,
+        "category": "Utilities",
+        "date": "2026-09-13",
+        "description": "Prepaid mobile data and call plan"
+    },
+    "E014": {
+        "id": "E014",
+        "name": "Movie Tickets",
+        "amount": 28.0,
+        "category": "Entertainment",
+        "date": "2026-09-14",
+        "description": "Weekend cinema tickets for two"
+    },
+    "E015": {
+        "id": "E015",
+        "name": "Home Maintenance",
+        "amount": 140.0,
+        "category": "Housing",
+        "date": "2026-09-15",
+        "description": "Plumbing repair service"
+    },
+    "E016": {
+        "id": "E016",
+        "name": "Outdoor dinner",
+        "amount": 5000.0,
+        "category": "Food",
+        "date": "2026-10-25",
+        "description": "Dinner in a fancy restaurant"
+    }
+}
